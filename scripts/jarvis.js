@@ -60,19 +60,19 @@
                     "candidate":{
                         "firstName":"Gisselle",
                         "lastName":"Andrade",
-                        "specialty":"Diseñadora",
+                        "specialty":"Analista de Sistemas",
                         "image":"candidate.jpg"
                     },
                     "profile":{
                         "title":"Perfil",
-                        "description":"Desarrollador por naturaleza, adepto a la programación orientada a objetos, dedicado a mejorar los procesos que se puedan optimizar, cuento con 10 años de experiencia en el área de desarrollo y de infraestructura, interesado en desarrollar soluciones a las áreas adyacentes a la mía, ya que me gusta prestar mi apoyo y conocimiento para mejorar la calidad de trabajo donde me encuentre, me gusta dar lo mejor de mi talento para demostrar que la confianza que depositan en mí vale mucho. Confió siempre que puedo aprender todos los días algo nuevo, y cada persona que llegue a mi vida seguro aprenderé algo de ella."
+                        "description":"Diseñadora."
                     },
                     "contact":{
                         "title":"Contacto",
-                        "phone":"+58(424)460.0577",
-                        "mail":"jorgtowers@gmail.com",
-                        "skype":"jorgtowers",
-                        "website":"jorgtowers.github.com",
+                        "phone":"+58(412)144.3107",
+                        "mail":"gisselleandradepinzon@gmail.com",
+                        "skype":"gisselle_andrade",
+                        "website":"gisanpi.github.com",
                         "location":"Carabobo, Venezuela"
                     },
                     "personalSkill":{
@@ -98,121 +98,50 @@
                     "professionalSkill":{
                         "title":"Habilidades Personales",
                         "items":[{
-                            "title":"Javascript",
-                            "percent":"98"
+                            "title":"HTML",
+                            "percent":"80"
                             },{
-                             "title":"CSharp (C#)",
+                             "title":"Microsoft Word",
+                             "percent":"90"   
+                            },{
+                             "title":"Microsoft Powerpoint",
                              "percent":"98"   
                             },{
-                             "title":"HTML5",
-                             "percent":"98"   
-                            },{
-                             "title":"CSS3",
-                             "percent":"95"   
-                            },{
-                             "title":"POO",
+                             "title":"Microsoft Publisher",
                              "percent":"98"   
                             },{
                              "title":"Microsoft Excel",
-                             "percent":"80"   
-                            },{
-                             "title":"Microsoft Visio",
-                             "percent":"60"   
-                            },{
-                             "title":"Microsoft Project",
-                             "percent":"40"   
-                            },{
-                             "title":"ITIL",
-                             "percent":"50"   
-                            },{
-                             "title":"PHP",
-                             "percent":"30"   
-                            },{
-                             "title":"JSON",
                              "percent":"98"   
                             },{
-                             "title":"AngularJS",
-                             "percent":"30"   
+                             "title":"Microsoft Visio",
+                             "percent":"15"   
                             }
                         ]
                     },
                     "workExperience":{
                         "title":"Experiencia Laboral",
                         "items":[{
-                            "title":"Gerente de Tecnología de Información",
-                            "companyName":"Editorial Notitarde, C.A.",
-                            "period":"Agosto de 2016 – actualidad (6 meses)"
+                            "title":"Ejecutiva de Soluciones de Aprendizaje TIC",
+                            "companyName":"Lourtec, S.A.",
+                            "period":"Febrero de 2013 – actualidad"
                             }, {
-                            "title":"Instructor HTML5, Css3 y Javascript",
-                            "companyName":"Lourtec, S.A.",
-                            "period":"Abril de 2016 – actualidad (10 meses)"
-                            } , {
-                            "title":"Supervisor de Desarrollo Web",
-                            "companyName":"Editorial Notitarde, C.A.",
-                            "period":"Mayo de 2011 – actualidad (5 años 9 meses)"
-                            } , {
-                            "title":"Instructor de C#",
-                            "companyName":"Lourtec, S.A.",
-                            "period":"Febrero de 2015 – marzo de 2015 (2 meses)"
-                            } , {
-                            "title":"Supervisor de Sistemas",
-                            "companyName":"Editorial Notitarde, C.A.",
-                            "period":"Mayo de 2004 – mayo de 2011 (7 años 1 mes)"
-                            }
+                            "title":"Analista de Sistemas",
+                            "companyName":"Grupo Automar, C.A.",
+                            "period":"XXXX de #### - Hasta"
+                            } 
                         ]
                     }, 
                     "certification":{
                         "title":"Certificaciones",
-                        "items":[{
-                            "logo":"microsoft.png",
-                            "title":"MCP: Microsoft Certified Professional",
-                            "description":"Microsoft, Número de la licencia: Licencia: F542-6709 Transcript ID: 1176383 Access Code: Certificacion",
-                            "companyName":"Microsoft",
-                            "duration":"Diciembre de 2015 – actualidad"
-                            },{
-                            "logo":"microsoft.png",
-                            "title":"MS: Programming in HTML5 with JavaScript and CSS3",
-                            "description":"Microsoft, Número de la licencia: Licencia: F543-1409 Transcript ID: 1176383 Access Code: Certificacion",
-                            "companyName":"Microsoft",
-                            "duration":"Diciembre de 2015 – actualidad"
-                            }
-                        ]
+                        "items":[]
                     },
                     "awards":{
                         "title":"Reconocimientos",
-                        "items":[{                            
-                            "title":"Cumplimiento exitoso de 5 años en Editorial Notitarde C.A",
-                            "companyName":"Editorial Notitarde, C.A.",
-                            "duration":"Diciembre de 2009"
-                            },{                            
-                            "title":"Cumplimiento exitoso de 10 años en Editorial Notitarde C.A",
-                            "companyName":"Editorial Notitarde, C.A.",
-                            "duration":"Diciembre de 2014"
-                            }
-                        ]
+                        "items":[]
                     },
                     "projects":{
                         "title":"Proyectos",
-                        "items":[{                            
-                            "title":"Implementación PROFIT Plus (Administrativo, Nómina, Producción y Contabilidad)",
-                            "companyName":"Editorial Notitarde, C.A.",
-                            "duration":"Fecha de comienzo enero del 2017",
-                            "description":"Instalación, configuración y puesta en marcha de módulos de PROFIT Plus Administrativo, Nómina, Producción y Contabilidad en la empresa Editorial Notitarde, C.A.",
-                            "members":"Jorge Torres, Alberto Osio"
-                            },{                            
-                            "title":"Portal notita.notitarde.com",
-                            "companyName":"Editorial Notitarde, C.A.",
-                            "duration":"Fecha de comienzo febrero de 2014",
-                            "description":"Se innova solución web para la carga de fotos a publicar en el suplemento NOTITA, lo que permite a los usuarios ingresar al portal notita.notitarde.com, optimizando el proceso de envió y publicación de fotos para el suplemento.",
-                            "members":"Jorge Torres, Andrés Villanueva"
-                            },{                            
-                            "title":"Migración Tecnología COM a .NET",
-                            "companyName":"Editorial Notitarde, C.A.",
-                            "duration":"Fecha de comienzo agosto de 2012",
-                            "description":"Se realizó la migración del núcleo de desarrollo del portal www.notitarde.com, el cual estaba desarrollado en tecnología COM (Component Object Model) y se actualió a NetFramework 4.0",
-                            "members":"Jorge Torres, Andrés Villanueva"
-                            }
-                        ]
+                        "items":[]
                     },
                     "courses":{
                         "title":"Formación",
