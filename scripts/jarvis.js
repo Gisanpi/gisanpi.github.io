@@ -70,7 +70,7 @@
                     "contact":{
                         "title":"Contacto",
                         "phone":"+58(412)144.3107",
-                        "mail":"gisselleandradepinzon@gmail.com",
+                        "mail":"gisanpi18@gmail.com",
                         "skype":"gisselle_andrade",
                         "website":"gisanpi.github.com",
                         "location":"Carabobo, Venezuela"
@@ -101,20 +101,29 @@
                             "title":"HTML",
                             "percent":"80"
                             },{
-                             "title":"Microsoft Word",
+                             "title":"Word",
                              "percent":"90"   
                             },{
-                             "title":"Microsoft Powerpoint",
+                             "title":"Powerpoint",
                              "percent":"98"   
                             },{
-                             "title":"Microsoft Publisher",
+                             "title":"Publisher",
                              "percent":"98"   
                             },{
-                             "title":"Microsoft Excel",
+                             "title":"Excel",
                              "percent":"98"   
                             },{
-                             "title":"Microsoft Visio",
+                             "title":"Visio",
                              "percent":"15"   
+                            },{
+                             "title":"Photoshop",
+                             "percent":"80"   
+                            },{
+                             "title":"Fireworks",
+                             "percent":"98"   
+                            },{
+                             "title":"Dreamweaver",
+                             "percent":"98"   
                             }
                         ]
                     },
