@@ -124,6 +124,15 @@
                             },{
                              "title":"Dreamweaver",
                              "percent":"98"   
+                            },{
+                             "title":"Visual Studio",
+                             "percent":"50"   
+                            },{
+                             "title":"SQL",
+                             "percent":"50"   
+                            },{
+                             "title":"Windows Server",
+                             "percent":"50"   
                             }
                         ]
                     },
