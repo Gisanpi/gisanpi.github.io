@@ -145,7 +145,7 @@ h3:after {
     left: 4px;
     width: 50%;
     height: 0px;
-    border-top: 4px solid #035965;
+    border-top: 4px solid #07a269;
     z-index: 1;
     margin-left: 5px;
 }
@@ -293,7 +293,7 @@ ul#ulProfessionalSkill>li>div {
 ul#ulProfessionalSkill>li>div>b {
     display: block;
     height: 6px;
-    background: #035965;
+    background: #07a269;
     margin: 2px;
 }
 
