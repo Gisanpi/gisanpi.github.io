@@ -164,176 +164,24 @@
                     "courses":{
                         "title":"Formación",
                         "items":[{
-                            "title":"MCPD Microsoft Certified Professional Developer",
+                            "title":"MCSE Microsoft Certified Solution Experts Windows Server 2012",
                             "companyName":"Lourtec, S.A.",
                             "duration":""
                             }, {
-                            "title":"JAVA Programmer",
+                            "title":"MCSE Microsoft Certified Solution Associates SQL Server 2012",
                             "companyName":"Lourtec, S.A.",
                             "duration":""
                             } , {
-                            "title":"Base de Datos Oracle 10g: Programación PL/SQL",
-                            "companyName":"",
-                            "duration":""
-                            } , {
-                            "title":"Object Oriented Programming Using Visual Studio",
-                            "companyName":"",
-                            "duration":""
-                            } , {
-                            "title":"Developing Web Applications Using Microsoft Visual Studio",
-                            "companyName":"",
-                            "duration":""
-                            } , {
-                            "title":"Desarrollo de Habilidades Supervisorias",
-                            "companyName":"Fundametal, C.A.",
-                            "duration":""
-                            } , {
-                            "title":"Finanzas Personales: En ruta a la libertad financiera",
-                            "companyName":"",
-                            "duration":""
-                            }, {
-                            "title":"Photoshop CS2 para Preprensa",
-                            "companyName":"",
-                            "duration":""
-                            }, {
-                            "title":"PDF para Preprensa",
-                            "companyName":"",
-                            "duration":""
-                            }, {
-                            "title":"Manejo Operativo del Sistema de Personal Integrado V.8.5.1 Nivel Basico",
-                            "companyName":"",
-                            "duration":""
-                            }, {
-                            "title":"Presentación de SPI ORACLE V.8.5.1 – Reconversion Monetaria",
-                            "companyName":"",
-                            "duration":""
-                            }, {
-                            "title":"Diseño de Pantallas en Enterprise One 12.0",
-                            "companyName":"Amazzing Global, C.A.",
-                            "duration":""
-                            }, {
-                            "title":"Advanced Report Design JDEdwards Enterprise E812",
-                            "companyName":"Amazzing Global, C.A.",
-                            "duration":""
-                            }, {
-                            "title":"Tool's Foundation JDEdwards Enterprise E812",
-                            "companyName":"Amazzing Global, C.A.",
-                            "duration":""
-                            }, {
-                            "title":"Basic Report Design JDEdwards Enterprise E812",
-                            "companyName":"Amazzing Global, C.A.",
-                            "duration":""
-                            }, {
-                            "title":"Liderazgo Transformacional",
-                            "companyName":"",
-                            "duration":""
-                            }, {
-                            "title":"Introducción a las Redes",
-                            "companyName":"Keys, S.A.",
-                            "duration":""
-                            }, {
-                            "title":"MS2400 Implementing and Managing Microsft Exchange Server 2003",
-                            "companyName":"Conredsis, C.A.",
-                            "duration":""
-                            }, {
-                            "title":"MCSD Microsoft Certified Solutions Developer",
+                            "title":"Microsoft Excel Básico-Intermedio",
                             "companyName":"Lourtec, S.A.",
                             "duration":""
                             }, {
-                            "title":"AngularJS de 0 a 100",
-                            "companyName":"Video2Brain",
+                            "title":"Microsoft Excel Intermedio-Avanzado",
+                            "companyName":"Lourtec, S.A.",
                             "duration":""
                             }, {
-                            "title":"Html5 y Css3",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Html5 Avanzado",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Técnicas SEO",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Bootstrap 3",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Css Avanzado y Práctico",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Responsive Design",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Javascript",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Mi primer juego en HTML5",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Especial Javascript Animaciones",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"JSON",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"ITIL1: Introducción a la gestión de sistemas de información",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"SCRUM",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"100 trucos de productividad con Excel",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Como tomar desiciones",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Reuniones eficaces",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Cómo gestionar mejor tu tiempo",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Horas y fechas en Excel",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Microsoft Excel 2013 VBA básico",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Moodle para administradores",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Microsoft project 2010",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Cómo manejar el estrés",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Cómo mejorar tu confianza",
-                            "companyName":"Video2Brain",
-                            "duration":""
-                            }, {
-                            "title":"Unity 2D: Video juego de plataformas",
-                            "companyName":"Video2Brain",
+                            "title":"MOC20480 Programming in HTML5 with JavaScript and CSS3",
+                            "companyName":"Lourtec, S.A.",
                             "duration":""
                             }
                         ],
