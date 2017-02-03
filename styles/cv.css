@@ -276,9 +276,9 @@ ul#ulProfessionalSkill {
 }
 ul#ulProfessionalSkill>li {
     margin-bottom: .4em;
-    width: 47%;
+    width: 42%;
     float: left;
-    margin-left: 1em;
+    margin-left: 4%;
 }
 
 ul#ulProfessionalSkill>li>div {
