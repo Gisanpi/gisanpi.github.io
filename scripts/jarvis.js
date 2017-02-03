@@ -58,9 +58,9 @@
             InfoUsuario: function () {
                 var fields ={
                     "candidate":{
-                        "firstName":"Jorge L.",
-                        "lastName":"Torres A.",
-                        "specialty":"Desarrollador FrontEnd",
+                        "firstName":"Gisselle",
+                        "lastName":"Andrade",
+                        "specialty":"Diseñadora",
                         "image":"candidate.jpg"
                     },
                     "profile":{
